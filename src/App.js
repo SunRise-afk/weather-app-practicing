@@ -3,7 +3,6 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import { HomeContainer } from './components/HomeContainer';
-import { WeatherContainer } from './components/WeatherContainer';
 
 function App() {
   return (

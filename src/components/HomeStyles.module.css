@@ -1,0 +1,9 @@
+.newsWrapper {
+  display: flex;
+  justify-content: space-between;
+  margin: 25px 0 70px 0;
+}
+.homeWrapper {
+  display: flex;
+  flex-direction: column;
+}

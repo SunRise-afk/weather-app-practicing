@@ -1,0 +1,27 @@
+.weatherContainer {
+  display: flex;
+  flex-direction: column;
+}
+.weatherRow {
+  display: flex;
+  justify-content: space-around;
+  margin: 10px;
+  border-bottom: aliceblue 2px solid;
+}
+h3 {
+  font-size: 35px;
+  font-weight: 800;
+}
+.weatherRow.weatherRowLong h3 {
+  font-size: 30px;
+}
+.weathImg {
+  width: 30px;
+  margin-left: 5px;
+}
+.weathImgHum {
+  width: 20px;
+}
+.weathImgDescription {
+  width: 50px;
+}

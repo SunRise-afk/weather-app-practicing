@@ -4,11 +4,11 @@
   box-sizing: border-box;
 }
 .App {
-  background-color: aqua;
+  background-color: #4287f5;
   min-height: 100vh;
-  display: flex;
+  /* display: flex;
   flex-direction: column;
   justify-content: center;
-  text-align: center;
+  text-align: center; */
   color: aliceblue;
 }
